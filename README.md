@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! Bonjour ! 👋
 
-<!--
-**Silaex/silaex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building some projects
+- 🌱 I’m currently learning about Javascript every day
+- 💻 I know about ***HTML-CSS***, ***JavaScript***, ***React***, ***NodeJS***
+- 👯 I’m looking to collaborate on Javascript based Website/Application
+- 💬 Ask me about Javascript and everything else. Learn Together!
+- 📫 How to reach me: </br>
+      _Discord_ - Silaex#4466 </br>
+      _Twitter_ [@silaex_dev](https://twitter.com/silaex_dev)
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=silaex&&show_icons=true&title_color=38b6ff&icon_color=38b6ff&text_color=ffffff&bg_color=212121" />
