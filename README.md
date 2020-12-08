@@ -1,6 +1,6 @@
 ### Hi! Bonjour ! 👋
 
-- 🔭 I’m currently working on building some projects (if you want to see some: [**here**](https://github.com/Silaex/free-time-programming))
+- 🔭 I’m currently working on building some projects
 - 🌱 I’m currently learning about Javascript every day
 - 💻 I know about ***HTML-CSS***, ***JavaScript***, ***React***, ***NodeJS***
 - 👯 I’m looking to collaborate on Javascript based Website/Application
