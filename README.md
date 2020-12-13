@@ -1,6 +1,6 @@
 ### Hi! Bonjour ! 👋
 
-- 🔭 I’m currently working on building a personal Javasript library and a [website](silaex.github.io/waven/) with it (in pause because i'm developing the continuation of the library).
+- 🔭 I’m currently working on building a personal Javasript library and a [website](https://silaex.github.io/waven/) with it (in pause because i'm developing the continuation of the library).
 - 🌱 I’m currently learning about Javascript every day
 - 💻 I know about ***HTML-CSS***, ***JavaScript***, ***React***, ***NodeJS***
 - 👯 I’m looking to collaborate on Javascript based Website/Application
