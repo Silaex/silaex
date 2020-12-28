@@ -1,6 +1,7 @@
 ### Hi! Bonjour ! 👋
 
 > 🔭 I’m currently working on building a **personal Javasript library (Components, State, Routing...)**
+
 > 🌱 I’m currently learning about Javascript every day
 
 > 💻 I know about ***HTML-CSS***, ***JavaScript***, ***React***, ***NodeJS***
