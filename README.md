@@ -11,4 +11,4 @@
       
 > 😄 Pronouns: He/Him
 
-<img src="https://github-readme-stats.vercel.app/api?username=silaex&&show_icons=true&title_color=38b6ff&icon_color=38b6ff&text_color=ffffff&bg_color=212121" />
+<img src="https://github-readme-stats.vercel.app/api?username=silaex&&show_icons=true&title_color=F4E4B2&icon_color=F4E4B2&text_color=ffffff&bg_color=212121" />
