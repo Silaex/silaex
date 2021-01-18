@@ -1,18 +1,13 @@
 ### Hi! Bonjour ! 👋
 
-> 🔭 I’m currently working on building a **personal Javasript library (Components, State, Routing...)**
+> 🔭 I’m currently working on building a basic **2D Game Engine**
 
-> 🌱 I’m currently learning about Javascript every day
+> 🌱 I’m currently learning about Java and Game Development stuff every day
 
-> 💻 I know about ***HTML-CSS***, ***JavaScript***, ***React***, ***NodeJS***
-
-> 👯 I’m looking to collaborate on Javascript based Website/Application
-
-> 💬 Ask me about Javascript and everything else. Learn Together!
+> 💻 I know about ***HTML-CSS***, ***JavaScript***, ***React***, ***NodeJS***, **Java**
 
 > 📫 How to reach me: </br>
-      _Discord_ - Silaex#4466 </br>
-      _Twitter_ [@silaex_dev](https://twitter.com/silaex_dev)
+      _Discord_ - Silaex#4466
       
 > 😄 Pronouns: He/Him
 
