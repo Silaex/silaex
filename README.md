@@ -1,8 +1,8 @@
 ### Hi! Bonjour ! 👋
 
-> 🔭 I’m currently working on building a basic **2D Game Engine**
+> 🔭 I’m currently working on building a basic **programming stuff**
 
-> 🌱 I’m currently learning about Java and Game Development stuff every day
+> 🌱 I’m currently learning about programming by programming
 
 > 💻 I know about ***HTML-CSS***, ***JavaScript***, ***React***, ***NodeJS***, **Java**
 
